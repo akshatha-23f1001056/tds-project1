@@ -1,8 +1,0 @@
-{
-  "prompt": "Japanese Edo-period ukiyo-e woodblock print, circa 1830s–1860s Hokusai/Hiroshige school. A flat-colour illustration depicting scattered data points clustered into three groups across a landscape composition — rendered as scattered stones, flowers, or travellers naturally gathering into formations along a misty mountain path. Visible woodgrain texture in background areas. Stark figure-ground contrast with strong black brushstroke outlines (keyblock lines). Flat, unmodulated areas of colour — muted indigo blue, ochre yellow, vermillion red, and ivory paper-white. No photographic shading, no gradients, no Western perspective vanishing points. Atmospheric depth achieved through vertical layering and colour saturation, not shadow. Diagonal compositional thrust from lower-left to upper-right. Fine parallel hatching lines for texture in rock and sky areas. Small cartouche box in upper corner containing title text in the style of Japanese characters",
-  "model": "Gemini 3 Pro",
-  "concept": "KNN Clustering",
-  "tradition_name": "Ukiyo-e (Hokusai/Hiroshige School)",
-  "tradition_period": "Edo Period (circa 1830s–1860s)",
-  "tradition_approach": "Used flat woodblock style with bold outlines, layered depth, and muted indigo/vermilion tones, depicting data clusters as gatherings, replacing Western perspective with diagonal composition."
-}
