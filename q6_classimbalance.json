@@ -1,0 +1,7 @@
+{
+  "prompt": " A high-resolution scene on a rustic wooden workbench. On the right side, three clean white eggs sit isolated and clearly visible on the bare wood. On the left side, a massive, dense pile of small, grey rounded river stones dominates the frame. Nestled deep within the center of the stone pile are two white eggs, partially sunken and surrounded by the grey rocks to show how they blend in.  No text, no diagrams, cinematic depth of field.",
+  "model": "Gemini 3 Pro",
+  "concept": "Class imbalance in ML",
+  "metaphor": "Rocks dominate (majority class), while eggs are rare (minority). The model mistakes eggs for rocks, showing how rare events are misclassified as common ones.",
+  "publish_email": true
+}
