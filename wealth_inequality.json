@@ -1,10 +1,7 @@
 {
-  "prompt": "A high-resolution conceptual metaphor for extreme wealth inequality. The image is split by a deep, jagged crack in the ground. On the left side, two large, majestic queen bees wearing intricate gold crowns rest comfortably on a lush, overflowing garden. Featuring hundreds of detailed flowers and overflowing golden honeycombs dripping with thick, liquid gold honey.
-  On the right side,
-  the ground is a desolate, dry, cracked grey earth. A massive swarm of thousands of tiny, realistic worker bees are huddled together, struggling and fighting over just two or three small, wilted, pale daisies. 
-  The contrast is sharp: the left is wealthy, gold, and abundant; the right is crowded, grey, and impoverished. No text, clean composition, cinematic lighting.",
+  "prompt": "A high-resolution conceptual metaphor for extreme wealth inequality. The image is split by a deep, jagged crack in the ground. On the left side, two large, majestic queen bees wearing intricate gold crowns rest comfortably on a lush, overflowing garden featuring hundreds of detailed flowers and overflowing golden honeycombs dripping with thick, liquid gold honey. On the right side, the ground is a desolate, dry, cracked grey earth. A massive swarm of thousands of tiny, realistic worker bees are huddled together, struggling and fighting over just two or three small, wilted, pale daisies. The contrast is sharp: the left is wealthy, gold, and abundant; the right is crowded, grey, and impoverished. No text, clean composition, cinematic lighting.",
   "model": "DALL-E 3",
-  "dataset_name": "World Inequality Dataset",
+  "dataset_name": "World Inequality Database",
   "dataset_url": "https://wid.world/",
-  "insight": "The top 10 percent of the world’s population commands a staggering 76% of all global wealth, while the bottom 50% is left to survive on a mere 2 percent fragment of the total."
+  "insight": "The top 10 percent of the world's population commands a staggering 76% of all global wealth, while the bottom 50% is left to survive on a mere 2 percent fragment of the total."
 }
