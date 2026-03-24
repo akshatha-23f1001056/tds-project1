@@ -2,6 +2,6 @@
   "prompt": " A high-resolution scene on a rustic wooden workbench. On the right side, three clean white eggs sit isolated and clearly visible on the bare wood. On the left side, a massive, dense pile of small, grey rounded river stones dominates the frame. Nestled deep within the center of the stone pile are two white eggs, partially sunken and surrounded by the grey rocks to show how they blend in.  No text, no diagrams, cinematic depth of field.",
   "model": "Gemini 3 Pro",
   "concept": "Class imbalance in ML",
-  "metaphor": "The rocks represent the overrepresented majority class. And eggs are the underrepresented class. Illustrates how the model is overwhelmed by the majority data and incorrectly classifies the rare event(egg) as a common one(rock)",
+  "metaphor": "Rocks are overrepresented majority class And eggs are the underrepresented class. Illustrates how model incorrectly classifies the rare event(egg) as a common one(rock)",
   "publish_email": true
 }
