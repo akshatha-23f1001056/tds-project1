@@ -1,0 +1,7 @@
+{
+  "prompt": "A single human figure stands at the center of an intricate web of silver threads. Each thread connects outward to other figures, who are themselves tangled in dense, overlapping networks of their own. The central figure's threads are few and sparse; the outer figures are engulfed in connection. The central figure looks outward with quiet, unresolvable longing. Rendered in deep indigo and silver, hyperrealistic, cinematic lighting. No text, no numbers, no labels. please geenrate an image for me that visualises friendship paradox in the following way",
+  "model": "Gemini 3 Pro",
+  "paradox": "Friendship Paradox",
+  "visual_logic": "The image shows a node with few links connected to hubs with many. It contrasts individual isolation against the statistical reality that friends usually have more connections.",
+  "publish_email": true
+}
